@@ -48,7 +48,7 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 ## My Released Applications
 <a href="https://play.google.com/store/apps/details?id=com.beatiapp2.beatifun"><img align="left" alt="Beatifun" width="100px" src="https://play-lh.googleusercontent.com/0MXVZ8Vwtu-SSqhMrlVBdPB0j9QkNC-IKmEs6T43pFOA3IRqm7piatXyhsvW6iOWiQ=s180-rw" /></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.beatiapp.namazvakitleriapp"><img align="left" alt="Namaz Vakitleri App" width="100px" src="https://play-lh.googleusercontent.com/W7PA0hrcOPE6mNjJJdhQeG6QK5HYOnINjPcLEO6ZoBH4CeEjNGib1LKWO61XPD0GS8o5=s180-rw" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.beatiapp.namazvakitleriapp"><img align="left" alt="Namaz Vakitleri App" width="100px" src="https://play-lh.googleusercontent.com/YFNo45kLjAO7E5WjswPUed9PlF41jNEeFFuCYCloWtJAVdHxn4oNcBcxskp7iHxl4g=s180-rw" /></a>
 
 <br />
 <br />
