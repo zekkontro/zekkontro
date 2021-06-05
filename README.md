@@ -1,6 +1,6 @@
 ## About me:
 
-Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, I'm a Flutter Dev since early 2019🙍🏽‍♂️ and I enjoy eating food and traveling. I am 17 years old and studying Sesim Sarpkaya High School. 
+Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, I'm a Flutter Dev since early 2019🙍🏽‍♂️ and I enjoy eating food and traveling. I am 22 years old and studying Sesim Sarpkaya High School. 
 
 <br />
 <br />
