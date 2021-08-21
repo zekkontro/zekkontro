@@ -23,8 +23,6 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/typescript/typescript.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Adobe Photoshop CS6" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/616px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 
 <br />
