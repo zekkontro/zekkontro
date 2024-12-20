@@ -21,6 +21,7 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
+<img align="left" alt="ChatGPT" width="26px" src="https://freepnglogo.com/images/all_img/1724866361chatgpt-logo-png-green-background.png" />
 <br />
 <br />
 <br />
