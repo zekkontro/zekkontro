@@ -25,12 +25,6 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 <br />
 <br />
 
-## My Udemy Courses
-
-<a href="https://www.udemy.com/course/programlama-dilleriyle-orta-ileri-seviye-etik-hacker-kursu/"><img align="left" alt="Programlama Dilleri ile Orta ve İleri Seviye Etik Hacker Kursu" width="120px" src="https://img-a.udemycdn.com/course/240x135/3138094_aa7a_4.jpg?_yrlIrgkFRk78o0Bmw9Aqjvtd8pXkzpzMjSlfYmlvW1B2Tg7Udz9c8c77Eli10npiOAH6VBnoMy7ia_a8ktsqIVFFRZIZbhF16Ie6k-KmrRDvCVeUtenU79jIvO6qA" /></a>
-
-<a href="https://www.udemy.com/course/sfrdan-temel-ethical-hacker-ve-siber-guvenlik-kursu/"><img align="left" alt="Sıfırdan Temel Ethical Hacker ve Siber güvenlik kursu" width="120px" src="https://img-a.udemycdn.com/course/240x135/3011886_26e3.jpg?28ukeAeKCmDrTNcuFkxi1yZJ5rA0B4spXrsUkekHttmxnRlp6mTlT5BJGENXTMnTJ2M5dm00YFDJDbCgAmXWz6xBGSQAG_egituDuqiIBIcF2QELwSehze_9AUo" /></a>
-
 [linkedin]: https://www.linkedin.com/in/berat-kurt-958b6a202/
 [bionluk]: https://bionluk.com/beratkurt/
 [x]: https://x.com/zekkontro33
