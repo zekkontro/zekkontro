@@ -7,9 +7,8 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 
 
 ## Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="udemy | Udemy" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy]
+[<img align="left" alt="x | X" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" />][x]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
 <br />
 
@@ -20,10 +19,8 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/typescript/typescript.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 
 <br />
 <br />
@@ -35,18 +32,20 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 <a href="https://www.udemy.com/course/sfrdan-temel-ethical-hacker-ve-siber-guvenlik-kursu/"><img align="left" alt="Sıfırdan Temel Ethical Hacker ve Siber güvenlik kursu" width="120px" src="https://img-a.udemycdn.com/course/240x135/3011886_26e3.jpg?28ukeAeKCmDrTNcuFkxi1yZJ5rA0B4spXrsUkekHttmxnRlp6mTlT5BJGENXTMnTJ2M5dm00YFDJDbCgAmXWz6xBGSQAG_egituDuqiIBIcF2QELwSehze_9AUo" /></a>
 
 [linkedin]: https://www.linkedin.com/in/berat-kurt-958b6a202/
-[udemy]: https://www.udemy.com/user/berat-kurt-2/
 [bionluk]: https://bionluk.com/beratkurt/
+[x]: https://x.com/zekkontro33
 
 <br />
 <br />
 <br />
 <br />
 
-## My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.beatiapp2.beatifun"><img align="left" alt="Beatifun" width="100px" src="https://play-lh.googleusercontent.com/0MXVZ8Vwtu-SSqhMrlVBdPB0j9QkNC-IKmEs6T43pFOA3IRqm7piatXyhsvW6iOWiQ=s180-rw" /></a>
+## My Released Projects
+<a href="https://readsomo.com/"><img align="left" alt="Readsomo" width="100px" src="https://play-lh.googleusercontent.com/qNzBVzI6-G1YNg407OWl8BtS6gxFDSKRXcvkG3T6ZysayjuPTj4wJpu3iOQXjZ5td-Wc=w480-h960" /></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.beatiapp.namazvakitleriapp"><img align="left" alt="Namaz Vakitleri App" width="100px" src="https://play-lh.googleusercontent.com/YFNo45kLjAO7E5WjswPUed9PlF41jNEeFFuCYCloWtJAVdHxn4oNcBcxskp7iHxl4g=s180-rw" /></a>
+<a href="https://fallasana.com/"><img align="left" alt="Fallasana" width="100px" src="https://play-lh.googleusercontent.com/yvE6a0JrZOp-xLy5kZPw0G82R5Ko3UlohR-QYpWP02HvSmHzIej4sxTmOGOk-K0cXA=w480-h960" /></a>
+
+<a href="https://verblaze.com/"><img align="left" alt="Verblaze" width="100px" src="https://www.verblaze.com/icon.png" /></a>
 
 <br />
 <br />
