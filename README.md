@@ -7,9 +7,9 @@ Hi, I'm Mustafa Berat Kurt, a Full Stack Developer 🚀 from Turkey, currently, 
 
 
 ## Connect with me:
-<a href="https://x.com/zekkontro33"> [<img align="left" alt="x | X" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" />][x]</a>
-<a href="https://www.linkedin.com/in/berat-kurt-958b6a202">[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png" />][linkedin]
-<a href="https://bionluk.com/beratkurt">[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]</a>
+<a href="https://x.com/zekkontro33"> <img align="left" alt="x | X" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" /></a>
+<a href="https://www.linkedin.com/in/berat-kurt-958b6a202"><img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png" />
+<a href="https://bionluk.com/beratkurt"><img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" /></a>
 <br />
 
 ## Languages and Tools:
